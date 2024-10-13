@@ -22,6 +22,9 @@ This paper primarily uses the Meckling-Nahm theory of state capacity. Here, “s
 Policies are made in the following stages: policy goals; policy design; and finally, policy implementation. While it is ambiguous at the policy goal stage how benefits and costs will be distributed across specific interests and organizations, they are made explicit in the policy design stage. It is therefore during the policy design stage that interests are most motivated to attempt capturing the given policymakers.
   
 [FIGURE 1]
+![Figure 1](https://github.com/user-attachments/assets/4c126a5a-5840-4838-9c7f-c1b4c62619e7)
+
+
 
 ### Concept 2: Legislators vs Bureaucrats
 
@@ -44,6 +47,8 @@ Private sector whistleblower protections in the US are a recent innovation. They
 Whistleblowing is critical to enforcing regulations. Many of OSHA WPP’s statutes concern energy and the environment (see figure 2). Workers have the insider knowledge needed to properly monitor regulated firms, but employers often prevent this through “retaliation”, or punishing workers for blowing the whistle. Though a worker may care about the public good, they are rightfully more concerned with preserving the wellbeing of themselves and their dependents. Without effective whistleblower protections, workers may have no choice but to knowingly break the law, weakening otherwise-effective regulations.
 
 [FIGURE 2]
+![Figure 2](https://github.com/user-attachments/assets/32a9b66e-ce2a-4fff-abbb-dcee78776226)
+
 
 OSHA WPP is effectively a sub-sub-agency. Within the Department of Labor is the sub-agency OSHA. OSHA’s resources are unevenly divided between what are colloquially called “Enforcement”--those enforcing statutes through inspections, often with tips from whistleblowers--and “Whistleblower”--the Whistleblower Protection Program, or WPP, which enforces whistleblower protections. Enforcement is monumentally larger than Whistleblower. In FY2023 and (estimated) FY2024, OSHA WPP received only about 3% (about $22 million) of OSHA’s total budget, while Enforcement received about 40% (about $240 million).
 
@@ -60,6 +65,8 @@ In the investigation stage, the complaint becomes a case assigned to an investig
 Finally, the judge--depending on the statute, either a district court judge, or an administrative law judge (ALJ)--issues a final ruling: “merit” for if the complainant is owed compensation, and “demerit” if not.
 
 [FIGURE 3]
+![Figure 3](https://github.com/user-attachments/assets/8421cdfa-27f2-4222-bcbf-86b3ba49ea33)
+
 
 ### OSHA WPP Policy Design
 
@@ -96,6 +103,8 @@ The high rate of settlement may act as a deterrent for whistleblowers by lowerin
 Another issue is how, from the whistleblower’s perspective, the payoff is hard to estimate, introducing risk which further deters whistleblowing. While non-monetary compensation is inherently qualitative and thus hard to make clear, the same is not true with monetary payoffs. Bounty systems can make payoffs clear, but OSHA WPP’s statutes use a complex, qualitative method. According to the publicly-available Whistleblower Investigations Manual, the 290-page document which is used internally to make sense of implementing all 25 statutes, “All of OSHA’s whistleblower statutes provide for  for reinstatement, back pay, and compensatory damages for pecuniary losses and non-pecuniary damages… A number of the statutes permit punitive damages and recovery of attorney’s fees.” Each component of this must be calculated through much documentation and arbitrary formulae, making it costly for the whistleblower to calculate the potential payoff themselves, not to mention fundamentally unpredictable. This also increases uncertainty of benefit, disincentivizing whistleblowing.
 
 [FIGURE 4]
+![Figure 4](https://github.com/user-attachments/assets/1d824b40-d4e3-4b99-a639-fc1f15a908ba)
+
 
 OSHA WPP also gives its bureaucrats bad incentives. While OSHA WPP is filled with wonderful, mission-driven people who do their best to help whistleblowers as much as possible, they are still rational actors living under conditions of scarcity, and thus vulnerable to perverse incentives, no matter their virtue. OSHA WPP’s bureaucrats especially live under scarcity, considering how chronically underfunded OSHA has been since its inception (discussed in Problem 3, see figure 5). This is a big problem, as the statutes OSHA WPP enforces were written in such a way to give bureaucrats many opportunities to decrease workload by compromising the mission.
   
@@ -111,6 +120,8 @@ OSHA’s budget is roughly the same as it was in 1974, despite being assigned mo
 One may retort that budget increases for each new statute are unnecessary, for, as figure 4 shows, the vast majority of statutes are filed under 11(c). This is misleading for two reasons. First, because cases may be filed under multiple statutes, it is possible that the OSHA row is inflated--11(c), being the first statute, is of course general-enough to apply to many cases. Second, infrequently-applied statutes are likely more time-consuming. This is because the learning curve certainly applies to statute enforcement: the more a given investigator--and the organization generally--enforces one statute, the more skilled they become at enforcing it in the future. Thus, while 11(c) might be committed to heart, ISCA, which had no completed cases in FY2023, might be very time-consuming when it does appear. Even niche statutes, then, deserve budget increases.
 
 [FIGURE 5]
+![Figure 5](https://github.com/user-attachments/assets/49d2e723-915a-4959-86e5-ba146b47d5f4)
+
 
 OSHA WPP’s chronic underfunding is due to Congress. Though perhaps not conventionally considered part of policy design, how policy is financed is a very important part of design. Two arbitrary choices which increased Congress’s role in OSHA’s financing--and thus also the opportunity for interests to sabotage OSHA--were made. First, Congress decided that OSHA should be an agency. That, of course, is not the only option; as OSHA WPP is, at its core, an investigatory service, it could conceivably operate as a state-owned enterprise, or even a regulated private entity. The problem with being an agency is that OSHA WPP has no independent revenue streams; its funding depends entirely on what Congress allows it. Second, Congress decided that OSHA should receive funding through the Congressional budget process. This also was not the only option, even if it was customary. Also conceivable are alternate means of creating the agency’s budget which do not involve Congress--such as an independent third party, a mathematical formula, and so on. The Congressional budgeting process gives interest groups the opportunity to starve OSHA WPP of funding. As figure 5 suggests, this seems to have been done by making it a struggle to keep OSHA’s budget on par with inflation, let alone increase it.
 
