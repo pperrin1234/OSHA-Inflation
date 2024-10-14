@@ -14,3 +14,5 @@ But this was just a request--the actual operating budget was the same as FY 2023
 
 ## Inflation Data
 On the news, people talk about inflation as though it's one measure. But that's far from reality. In truth, inflation is very nebulous, with a variety of methods of calculating that each cater to some different need. And then some methods vary even further, for example taking out volatile categories (food and energy) to produce a less-noisy rate. This is why the graph uses multiple rates. By estimating OSHA's inflation-adjusted budget since 2010 with multiple different rates, one may see the range of possible values that the true, but unknown, value may be. 
+
+The inflation data is pulled from FRED. FRED, or Federal Reserve Economic Data, is run by the St. Louis Federal Reserve, and is the go-to source for a variety of economic data. The code used to generate the graph uses the fredr package to pull data from the FRED API, retrieving up-to-date data on demand.
