@@ -1,6 +1,11 @@
 # Summary
 OSHA is in crisis. Every year, Congress asks OSHA to perform more tasks, while giving them fewer resources to do so. But the truth of this is not immediately obvious--after all, OSHA's budget *looks* like it is increasing significantly over time, and it is not easy to account for inflation in one's head when looking at such figures. By comparing OSHA's budget against a variety of inflation rates, this repository provides clear evidence of OSHA's shrinking budget, with the hope of making the discourse more data-driven.
 
+![Untitled](https://github.com/user-attachments/assets/76244647-8581-4d50-b26b-f2719f1db1f3)
+
+![Untitled](https://github.com/user-attachments/assets/1f333627-59ff-4e85-afdc-d2d52707376b)
+
+
 # Data Sources
 
 ## OSHA Budget
