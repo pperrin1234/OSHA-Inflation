@@ -1,16 +1,10 @@
-# OSHA's Budget And Inflation Graph
-This repository contains the code used to create a graph showing how OSHA's budget has eroded due to inflation. My hope is that the graph may enrich the public discussion around OSHA's budget, showing quantitatively what many know intuitively. The data, however, is somewhat tricky, and the notes mentioned in the graph are expanded upon here.
+# Summary
+OSHA is in crisis. Every year, Congress asks OSHA to perform more tasks, while giving them fewer resources to do so. But the truth of this is not immediately obvious--after all, OSHA's budget *looks* like it is increasing significantly over time, and it is not easy to account for inflation in one's head when looking at such figures. By comparing OSHA's budget against a variety of inflation rates, this repository provides clear evidence of OSHA's shrinking budget, with the hope of making the discourse more data-driven.
 
 # Data Sources
 
 ## OSHA Budget
-Except for fiscal year (FY) 2024, the OSHA budget data comes from Sage Data (https://data.sagepub.com/dataset/datasheet?id=18E3517173A22&type=Datasheet).
-
-SAGE gets its numbers from the Federal Budget Authority Database.
-
-The problem with its numbers past FY 2023 is that they are misleading. SAGE uses the number _requested_ by the Department of Labor in its "Fiscal Year 2024 - Budget in Brief" (https://www.dol.gov/sites/dolgov/files/general/budget/2024/FY2024BIB.pdf, page 42).
-
-But this was just a request--the actual operating budget was the same as FY 2023 (https://www.dol.gov/sites/dolgov/files/general/budget/2024/FY2024OperatingPlanAPT.pdf, page 5).
+The budget data was manually extracted from the Department of Labor's Operating Plans, from FY 2009 to FY 2024. Other estimates tend to be of lower quality, primarily because they include mandatory spending, such as money authorized by the American Rescue Plan which significantly increased OSHA's budget for just one fiscal year (FY 2020). Furthermore, some of the earlier fiscal years had their estimates revised years later, so some of these other data sources may be using unrevised data. Also, some data sources may mislead by showing what the Department of Labor _requested_ its budget be, rather than what it actually received from Congress.
 
 ## Inflation Data
 On the news, people talk about inflation as though it's one measure. But that's far from reality. In truth, inflation is very nebulous, with a variety of methods of calculating that each cater to some different need. And then some methods vary even further, for example taking out volatile categories (food and energy) to produce a less-noisy rate. This is why the graph uses multiple rates. By estimating OSHA's inflation-adjusted budget since 2010 with multiple different rates, one may see the range of possible values that the true, but unknown, value may be. 
